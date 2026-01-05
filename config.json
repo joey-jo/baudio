@@ -1,0 +1,17 @@
+{
+  "mappings": {
+    "000": {
+      "file": "audio/dog.mp3",
+      "description": "강아지 소리"
+    },
+    "001": {
+      "file": "audio/cat.mp3",
+      "description": "고양이 소리"
+    },
+    "002": {
+      "file": "audio/cow.mp3",
+      "description": "소 소리"
+    }
+  }
+}
+

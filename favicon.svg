@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- 배경 -->
+  <rect width="64" height="64" fill="#1a1a1a" rx="10"/>
+  
+  <!-- 바코드 스타일의 세로 줄무늬 -->
+  <rect x="6" y="18" width="2.5" height="28" fill="#81c784" rx="1.25"/>
+  <rect x="10" y="14" width="2" height="36" fill="#81c784" rx="1"/>
+  <rect x="14" y="20" width="2" height="24" fill="#81c784" rx="1"/>
+  <rect x="18" y="10" width="2.5" height="44" fill="#81c784" rx="1.25"/>
+  <rect x="22" y="16" width="2" height="32" fill="#81c784" rx="1"/>
+  <rect x="26" y="12" width="2" height="40" fill="#81c784" rx="1"/>
+  <rect x="30" y="18" width="2.5" height="28" fill="#81c784" rx="1.25"/>
+  <rect x="34" y="14" width="2" height="36" fill="#81c784" rx="1"/>
+  <rect x="38" y="20" width="2" height="24" fill="#81c784" rx="1"/>
+  <rect x="42" y="12" width="2" height="40" fill="#81c784" rx="1"/>
+  <rect x="46" y="18" width="2.5" height="28" fill="#81c784" rx="1.25"/>
+  <rect x="50" y="16" width="2" height="32" fill="#81c784" rx="1"/>
+  <rect x="54" y="20" width="2" height="24" fill="#81c784" rx="1"/>
+</svg>
